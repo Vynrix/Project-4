@@ -1,1 +1,25 @@
 
+body{
+background:#0b0f19;
+color:white;
+font-family:Arial;
+padding:30px;
+}
+
+nav a{
+margin:10px;
+color:#7CFF6B;
+}
+
+.glass{
+background:rgba(255,255,255,0.1);
+padding:20px;
+border-radius:10px;
+}
+
+.lead-card{
+background:rgba(255,255,255,0.08);
+padding:10px;
+margin:10px;
+border-radius:8px;
+}
